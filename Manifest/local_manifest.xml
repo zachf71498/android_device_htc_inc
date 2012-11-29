@@ -38,7 +38,6 @@
   <remove-project path="packages/apps/DSPManager" name=CyanogenMod/android_packages_apps_DSPManager" path="packages/apps/DSPManager" />
   <remove-project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" path="packages/apps/Email" />
   <remove-project path="packages/apps/Exchange" name="CyanogenMod/android_packages_apps_Exchange" path="packages/apps/Exchange" />
-  <remove-project path="packages/apps/Launcher2" name="CyanogenMod/android_packages_apps_Launcher2" path="packages/apps/Launcher2" />
   <remove-project path="packages/apps/Music" name="CyanogenMod/android_packages_apps_Music" />
   <remove-project path="packages/apps/MusicFX" name="CyanogenMod/android_packages_apps_MusicFX" />
   <remove-project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />
