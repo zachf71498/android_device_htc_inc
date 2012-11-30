@@ -27,11 +27,19 @@ repo sync -j16
 NOTE: This WILL take a long time.
 
 ### Build
-Make sure we're in ~/cm10...
+Make sure we're in ~/PAC...
 ```bash
 cd ~/PAC
 
-### Pull in the prebuilts, like (currently only self-added GooManager)...
+### Make INC pac_inc.mk
+
+Look in other pac makes in /vendor/pac/product
+
+Inc is HDPI
+
+Add pac_inc.mk into AndroidProducts.mk
+
+Pull in the prebuilts, like (currently only self-added GooManager)...
 ```bash
 ./vendor/cm/get-prebuilts
 ```
