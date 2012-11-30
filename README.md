@@ -11,7 +11,7 @@ mkdir ~/bin
 cd ~/PAC/
 curl https://dl-ssl.google.com/dl/googlesource/git-repo/repo > ~/bin/repo
 chmod a+x ~/bin/repo
-repo init -u git://github.com/CyanogenMod/android.git -b jellybean
+repo init -u git://github.com/PAC-man/android.git -b jellybean
 ```
 
 ### Finish setting up repo
