@@ -15,7 +15,7 @@
   <project path="vendor/htc" name="android_vendor_htc" remote="ev" revision="jellybean-4.1.2" />
 
   <!--Replaced-->
-  <remove-project path="frameworks/av" name="TeamBAKED/frameworks_av" />  
+  <remove-project path="frameworks/av" name="TeamBAKED/frameworks_av" remote="TeamBAKED"/>  
   <project path="frameworks/av" name="android_frameworks_av" remote="ev" revision="jellybean-4.1.2" />
 
   <remove-project path="frameworks/native" name="TeamBAKED/frameworks_native" />  
