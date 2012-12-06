@@ -31,7 +31,7 @@
   <project path="hardware/ril" name="android_hardware_ril" remote="ev" revision="jellybean-4.1.2" />
 
   <!--Removed-->
-  <remove-project path="packages/apps/Music" name="packages_apps_Music" />
+  <remove-project path="packages/apps/Music" name="TeamBAKED/packages_apps_Music" />
   <remove-project path="packages/apps/MusicFX" name="packages_apps_MusicFX" />
   <remove-project path="packages/apps/Nfc" name="AOKP/android_packages_apps_Nfc" />
   <remove-project path="packages/apps/Protips" name="packages_apps_Protips" />
