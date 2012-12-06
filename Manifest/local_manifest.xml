@@ -15,19 +15,19 @@
   <project path="vendor/htc" name="android_vendor_htc" remote="ev" revision="jellybean-4.1.2" />
 
   <!--Replaced-->
-  <remove-project path="frameworks/av" name="android_frameworks_av" />  
+  <remove-project path="frameworks/av" name="TeamBAKED/frameworks_av" />  
   <project path="frameworks/av" name="android_frameworks_av" remote="ev" revision="jellybean-4.1.2" />
 
-  <remove-project path="frameworks/native" name="android_frameworks_native" />  
+  <remove-project path="frameworks/native" name="TeamBAKED/frameworks_native" />  
   <project path="frameworks/native" name="android_frameworks_native" remote="ev" revision="jellybean-4.1.2" />
 
-  <remove-project path="hardware/qcom/audio" name="android_hardware_qcom_audio" />
+  <remove-project path="hardware/qcom/audio" name="TeamBAKED/hardware_qcom_audio" />
   <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" remote="ev" revision="jellybean-4.1.2" />
 
-  <remove-project path="hardware/qcom/gps" name="android_hardware_qcom_gps" />
+  <remove-project path="hardware/qcom/gps" name="TeamBAKED/hardware_qcom_gps" />
   <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" remote="ev" revision="jellybean-4.1.2" />
 
-  <remove-project path="hardware/ril" name="android_hardware_ril" />
+  <remove-project path="hardware/ril" name="TeamBAKED/hardware_ril" />
   <project path="hardware/ril" name="android_hardware_ril" remote="ev" revision="jellybean-4.1.2" />
 
   <!--Removed-->
